@@ -9,7 +9,16 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>Coded by Nataliia Zazerina</footer>
+        <footer>
+          Coded by Nataliia Zazerina and{" "}
+          <a
+            href="https://github.com/Nataliia-git/dictionary-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on GitHub
+          </a>
+        </footer>
       </div>
     </div>
   );
