@@ -52,7 +52,7 @@ export default function Dictionary(props) {
             />
           </form>
           <div className="hint">
-            Might we suggest starting with <span>serendipity</span>?
+            Might we suggest starting with <span>serendipity</span> 🤓?
           </div>
         </section>
         <Results results={results} />
